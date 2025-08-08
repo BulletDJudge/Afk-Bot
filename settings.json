@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "OceanEyes1118.aternos.me:45610",
     "port": 25565,
     "version": "1.19.3"
   },
